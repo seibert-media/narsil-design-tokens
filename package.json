@@ -1,7 +1,0 @@
-{
-	"name": "ahc-tokens",
-	"version": "0.0.0",
-	"description": "Agile Hive Cloud Design Tokens",
-	"main": "tokens.json",
-	"author": "Team Fellowship"
-}
